@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "challenge-1"
+		},
+		{
+			"path": "mutex"
 		}
 	]
 }
