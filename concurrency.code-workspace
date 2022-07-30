@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "mutex"
+		},
+		{
+			"path": "produce-consumer"
 		}
 	]
 }
